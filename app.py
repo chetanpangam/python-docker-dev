@@ -13,8 +13,7 @@ else:
 
 @app.route('/')
 def hello_world():
-    return 'Hello, Docker!_/\_ \
-Testing the CI/CD pipeline trigger'
+    return 'Hello, Docker!_/\_. Testing CI/CD'
 
 
 @app.route('/widgets')
